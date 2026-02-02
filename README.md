@@ -160,11 +160,8 @@ Key project outputs included:
 
 ## Academic Note on Scope and Interpretation
 
-The tier label was defined as a proxy from operational heuristics (inventory and engagement). Therefore, results were interpreted as decision-support guidance rather than causal claims about campaign performance. The project emphasized transparency, interpretability, and reproducible workflow documentation.
+The tier label was defined as a proxy from operational  inventory and engagement. Therefore, results were interpreted as decision-support guidance rather than causal claims about campaign performance. The project emphasized transparency, interpretability, and reproducible workflow documentation.
 
-## References
-
-A complete list of academic references was maintained in references.bib and was reported in the academic report PDF. Core theoretical sources motivating the methods included Random Forest methodology and research on YouTube recommendation logic and content performance dynamics.
 
 ## Author and Course Context
 
